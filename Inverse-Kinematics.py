@@ -1,6 +1,7 @@
 #To find Inverse Kinematics Of A Delta Robot
 #Reference:
 #Paper Name: The Delta Parallel Robot: Kinematics Solutions; Author name: Robert L. Williams II, Ph.D, Mechanical Engineering, Ohio University; Date: October 2016
+#Please download the above mentioned paper. It has been kept in https://github.com/giridharanponnuvel/Delta-Robot-Inverse-Kinematics. Thank You!
 ########################################################################################################################
 #Author: Giridharan P
 #Date: 16-03-2019
